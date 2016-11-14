@@ -4,8 +4,7 @@ target 'SVGPath3_Example' do
   pod 'SVGPath3', :path => '../'
 
   target 'SVGPath3_Tests' do
-    inherit! :search_paths
+    pod 'SVGPath3', :path => '../'
 
-    
   end
 end

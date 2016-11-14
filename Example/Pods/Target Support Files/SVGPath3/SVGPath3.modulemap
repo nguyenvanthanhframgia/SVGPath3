@@ -1,0 +1,6 @@
+framework module SVGPath3 {
+  umbrella header "SVGPath3-umbrella.h"
+
+  export *
+  module * { export * }
+}

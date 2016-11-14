@@ -1,0 +1,22 @@
+{
+  "name": "SVGPath3",
+  "version": "0.1.0",
+  "summary": "A short description of SVGPath3.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SVGPath3",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nguyen.van.thanh": "nguyen.van.thanh@framgias-XXX.local"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SVGPath3.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SVGPath3/Classes/**/*"
+}

@@ -21,12 +21,12 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/SVGPath3'
+  s.homepage         = 'https://github.com/nguyenvanthanhframgia/SVGPath3'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'nguyen.van.thanh' => 'nguyen.van.thanh@framgias-XXX.local' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/SVGPath3.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'nguyen.van.thanh' => 'thanhnv.ip@gmail.com' }
+  s.source           = { :git => 'https://github.com/nguyenvanthanhframgia/SVGPath3.git', :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/vanthanh88'
 
   s.ios.deployment_target = '8.0'
 
